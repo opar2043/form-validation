@@ -1,6 +1,6 @@
 # form Validaation
 
-here i oush some form validate methode
+here i push some form validate methode. where user login and create account in the web application and i used private route also....where only authorized user can access it.
 
 
 
